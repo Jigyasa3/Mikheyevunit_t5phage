@@ -16,6 +16,3 @@ This should open the same environment, but locally.
 
 If you ever need to reload the environment later, you can run `source activate phage-lab` and run `jupyter notebook` to restart the notebook. 
 
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/jigyasa3/mikheyevunit_t5phage.git)
-
-.. image:: http://mybinder.org/badge.svg :target: http://mybinder.org:/repo/jigyasa3/mikheyevunit_t5phage.git
