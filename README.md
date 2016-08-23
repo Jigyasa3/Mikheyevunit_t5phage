@@ -15,5 +15,5 @@ Alternatively, on Mac and Linux you can [download](https://github.com/mikheyev/p
 This should open the same environment, but locally.
 
 If you ever need to reload the environment later, you can run `source activate phage-lab` and run `jupyter notebook` to restart the notebook. 
-
+NOTE-The above Launch binder link is broken- So the one below should be used!
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/mikheyev/phage-lab)
